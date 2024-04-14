@@ -1,0 +1,12 @@
+name = "Quote test";
+picture = "logo_cine_quotetest_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/cineafx/CINE_quotetest";
+description = "Quote test";
+logo = "logo_cine_quotetest_ca.paa";
+logoOver = "logo_cine_quotetest_ca.paa";
+tooltip = "Quote test";
+tooltipOwned = "Quote test Owned";
+overview = "Quote test";
+author = "cineafx";
+overviewPicture = "logo_cine_quotetest_ca.paa";
